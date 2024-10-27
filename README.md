@@ -55,7 +55,7 @@
 <h2 align="center">🌐 Contact Me 🌐 </h2>
 
 <div align="left">
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/thienone1628.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/yourusername" target="_blank">
