@@ -1,5 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NinjaCipher.NinjaCipherr" />
-<img align="left" height="120" src="https://media.giphy.com/media/IsZVu7doas4gSn3vFc/giphy.gif?cid=790b7611qmsbj2rydl9eues57k54sdfevk2p7luxxwlsif1i&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+ <hr/>
+
+<img align="left" height="150" src="https://media.giphy.com/media/IsZVu7doas4gSn3vFc/giphy.gif?cid=790b7611qmsbj2rydl9eues57k54sdfevk2p7luxxwlsif1i&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+ <hr/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pham+Thien!;" />
 </h1>
