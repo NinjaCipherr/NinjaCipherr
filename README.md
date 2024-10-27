@@ -1,4 +1,4 @@
-<h2 align="left">My name is PhamThien, a web developer newbie in Kobe! <br>----------------------------------------------------------------------私はファム・ティエン、神戸のウェブ開発初心者です！✨</h2>
+<h2 align="left">My name is PhamThien, a web developer newbie in Kobe! <br>私はファム・ティエン、神戸のウェブ開発初心者です！✨</h2>
 
 ###
 
