@@ -1,4 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NinjaCipher.NinjaCipherr" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pham+Thien!;" />
+</h1>
 <h2 align="left">My name is PhamThien, a web developer newbie in Kobe! <br>私はファム・ティエン、神戸のウェブ開発初心者です！✨</h2>
 
 ###
