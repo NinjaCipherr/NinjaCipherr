@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pham+Thien!;" />
 </h1>
 
-<h2 align="center">My name is PhamThien, a web developer newbie in Kobe! <br>私はファム・ティエン、神戸のウェブ開発初心者です！✨</h2>
+<h2 align="center">My name is PhamThien, a web developer newbie in Kobe! <br>私はファム・ティエン、神戸にいるウェブ開発初心者です！✨</h2>
 <div align="center">
  
  ⭐I started learning web development in **October 2024** <br>
