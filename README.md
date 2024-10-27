@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NinjaCipherr.NinjaCipherr" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NinjaCipher.NinjaCipherr" />
 <h2 align="left">My name is PhamThien, a web developer newbie in Kobe! <br>私はファム・ティエン、神戸のウェブ開発初心者です！✨</h2>
 
 ###
