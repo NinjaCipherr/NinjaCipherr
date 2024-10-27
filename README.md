@@ -5,8 +5,8 @@
 <h2 align="center">My name is PhamThien, a web developer newbie in Kobe! <br>私はファム・ティエン、神戸のウェブ開発初心者です！✨</h2>
 <div align="center">
  
- 🔭 I started learning web development in **October 2024** <br>
- 🌱 Currently studying **ReactJS and Spring Boot** <br>
+ ⭐I started learning web development in **October 2024** <br>
+ ⭐ Currently studying **ReactJS and Spring Boot** <br>
  ⚡ Fun fact: **Ninjas were known for their stealth and ability to move silently, often using the cover of darkness to complete their missions!**
 
 </div>
