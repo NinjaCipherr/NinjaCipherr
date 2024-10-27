@@ -2,18 +2,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pham+Thien!;" />
 </h1>
-<h2 align="left">My name is PhamThien, a web developer newbie in Kobe! <br>私はファム・ティエン、神戸のウェブ開発初心者です！✨</h2>
+<h2 align="center">My name is PhamThien, a web developer newbie in Kobe! <br>私はファム・ティエン、神戸のウェブ開発初心者です！✨</h2>
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🔭 I started learning web development in **October 2024** <br>
+ 🌱 Currently studying **ReactJS and Spring Boot** <br>
+ ⚡ Fun fact: **Ninjas were known for their stealth and ability to move silently, often using the cover of darkness to complete their missions!**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+</div>
 
 ###
 
